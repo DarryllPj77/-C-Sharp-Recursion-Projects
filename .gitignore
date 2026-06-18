@@ -1,0 +1,26 @@
+# .NET build outputs
+[Bb]in/
+[Oo]bj/
+artifacts/
+
+# Visual Studio and user-specific files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.rsuser
+*.sln.docstates
+
+# Test and coverage output
+[Tt]est[Rr]esult*/
+coverage*/
+*.coverage
+*.coveragexml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.tmp_proj
+
+# Environment files
+.env
